@@ -294,7 +294,7 @@ Executive Decision Making
 ![Python Monitoring Engine](docs/images/python_monitoring_engine.png)
 ![Phase Results](docs/images/phase_results.png)
 
-
+---
 # Skills Demonstrated
 
 - Cybersecurity Governance
