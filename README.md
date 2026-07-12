@@ -57,6 +57,12 @@ This project is inspired by my professional experience supervising physical secu
                             ▼
              Executive Decision Support
 ```
+### Visuals
+
+![System Architecture](docs/images/architecture.png)
+![Tableau Dashboard](docs/images/dashboard.png)
+![SQL Query Execution](docs/images/sql_terminal.png)
+
 
 ---
 
