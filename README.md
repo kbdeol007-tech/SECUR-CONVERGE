@@ -259,7 +259,7 @@ SECUR-CONVERGE
 │
 ├── reports/
 │
-└── screenshots/
+└── docs/images/
 ```
 
 ---
