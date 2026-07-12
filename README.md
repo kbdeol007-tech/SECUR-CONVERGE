@@ -2,7 +2,7 @@
 ![System Architecture](docs/images/architecture.PNG)
 
 ## Executive Dashboard
-<img width="1708" height="1043" alt="Image" src="https://github.com/user-attachments/assets/0ca7f370-a595-4c2f-937a-7e70065a7ae3" />
+![Executive Dashboard](docs/images/dashboard.png)
 
 ### Designing a Cyber-Physical Security Program for a Multi-Site Enterprise
 
@@ -289,6 +289,11 @@ Executive Decision Making
 ```
 
 ---
+# Visuels
+![Sql Terminal](docs/images/sql_terminal.png)
+![Python Monitoring Engine](docs/images/python_monitoring_engine.png)
+![Phase Results](docs/images/phase_results.png)
+
 
 # Skills Demonstrated
 
