@@ -313,4 +313,4 @@ Although the organization and incident scenario are fictional, the methodologies
 **Karanbir Singh**
 
 Cybersecurity • Security Operations • Cyber-Physical Security • Risk Management
-[Download Full Project Report](docs/images/SECUR-CONVERGE.pdf)
+[Download Full Project Report](docs/SECUR-CONVERGE.pdf)
