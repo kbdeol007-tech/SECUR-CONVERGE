@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Database (Pour ne pas uploader tes bases locales)
+*.db
+*.sqlite
+
+# Tableau
+*.twbr
+*.hyper
+
+# Dossiers systèmes
+.DS_Store
+.vscode/
+.idea/
