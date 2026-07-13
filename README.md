@@ -59,7 +59,7 @@ This project is inspired by my professional experience supervising physical secu
              Executive Decision Support
 ```
 ---
-# Visuels
+# Visuals
 ![Sql Terminal](docs/images/sql_terminal.png)
 ![Python Monitoring Engine](docs/images/python_monitoring_engine.png)
 ![Phase Results](docs/images/phase_results.png)
